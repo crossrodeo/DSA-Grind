@@ -116,3 +116,31 @@ No external dependencies. Standard library only unless a file header says otherw
 ## Goals
 
 Solve consistently. Prioritize understanding the pattern over memorizing the solution. Use this as a revision reference before interviews.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+<!---LeetCode Topics End-->

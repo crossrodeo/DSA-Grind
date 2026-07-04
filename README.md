@@ -123,6 +123,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,10 +134,12 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/crossrodeo/DSA-Grind/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,4 +157,16 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/crossrodeo/DSA-Grind/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->

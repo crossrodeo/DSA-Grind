@@ -126,6 +126,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 | [1301-number-of-paths-with-max-score](https://github.com/crossrodeo/DSA-Grind/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -138,6 +139,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/crossrodeo/DSA-Grind/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -167,11 +169,13 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/crossrodeo/DSA-Grind/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -181,6 +185,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/crossrodeo/DSA-Grind/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -198,4 +203,16 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->

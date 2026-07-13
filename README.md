@@ -222,4 +222,8 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/crossrodeo/DSA-Grind/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

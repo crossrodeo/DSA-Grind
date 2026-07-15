@@ -195,6 +195,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/crossrodeo/DSA-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -226,4 +227,8 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/crossrodeo/DSA-Grind/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/crossrodeo/DSA-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

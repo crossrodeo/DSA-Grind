@@ -126,6 +126,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 | [1301-number-of-paths-with-max-score](https://github.com/crossrodeo/DSA-Grind/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/crossrodeo/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/crossrodeo/DSA-Grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/crossrodeo/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/crossrodeo/DSA-Grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -175,6 +176,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/crossrodeo/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
@@ -199,6 +201,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/crossrodeo/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/crossrodeo/DSA-Grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/crossrodeo/DSA-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -211,11 +214,13 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/crossrodeo/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/crossrodeo/DSA-Grind/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/crossrodeo/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -237,6 +242,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/crossrodeo/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/crossrodeo/DSA-Grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/crossrodeo/DSA-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/crossrodeo/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -244,4 +250,12 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/crossrodeo/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/crossrodeo/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/crossrodeo/DSA-Grind/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

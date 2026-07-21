@@ -213,6 +213,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/crossrodeo/DSA-Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -243,6 +244,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/crossrodeo/DSA-Grind/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |

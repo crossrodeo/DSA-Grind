@@ -144,6 +144,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/crossrodeo/DSA-Grind/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/crossrodeo/DSA-Grind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/crossrodeo/DSA-Grind/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/crossrodeo/DSA-Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -306,6 +307,7 @@ Solve consistently. Prioritize understanding the pattern over memorizing the sol
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/crossrodeo/DSA-Grind/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/crossrodeo/DSA-Grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/crossrodeo/DSA-Grind/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
